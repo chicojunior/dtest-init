@@ -1,40 +1,40 @@
 [ 
   { 
-    "name":"item 1", 
+    "name":"home", 
     "value":"1", 
     "id":"1", 
     "parent_id":null, 
     "selected":true 
   }, 
   { 
-    "name":"item 2", 
+    "name":"detail", 
     "value":"2", 
     "id":2, 
     "selected":false, 
     "parent_id":null 
   }, 
-  { "name":"item 3", 
+  { "name":"test", 
     "value":"3", 
     "id":3, 
     "selected":false, 
     "parent_id":null 
   }, 
   { 
-    "name":"item 4", 
+    "name":"about", 
     "value":"4", 
     "id":"4", 
     "selected":false, 
     "parent_id":"1" 
   }, 
   { 
-    "name":"item 5", 
+    "name":"none", 
     "value":"5", 
     "id":"5", 
     "selected":false, 
     "parent_id":"1" 
   }, 
   { 
-    "name":"item 6", 
+    "name":"whatever", 
     "value":"6", 
     "id":"6", 
     "selected":false, 
