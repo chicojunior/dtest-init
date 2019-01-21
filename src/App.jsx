@@ -34,15 +34,11 @@ class App extends Component {
 
   }
 
-  
-
   render() {
-    // this.getRoutes()
-
     return (
       <div>
         <Header routes={this.state.routes}/>
-        <Main routes={this.state.routes} />
+        <Main routes={this.state.routes}/>
       </div>
     );
   }
