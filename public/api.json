@@ -1,43 +1,44 @@
-[ 
-  { 
-    "name":"home", 
-    "value":"1", 
-    "id":"1", 
-    "parent_id":null, 
-    "selected":true 
-  }, 
-  { 
-    "name":"detail", 
-    "value":"2", 
-    "id":2, 
-    "selected":false, 
-    "parent_id":null 
-  }, 
-  { "name":"test", 
-    "value":"3", 
-    "id":3, 
-    "selected":false, 
-    "parent_id":null 
-  }, 
-  { 
-    "name":"about", 
-    "value":"4", 
-    "id":"4", 
-    "selected":false, 
-    "parent_id":"1" 
-  }, 
-  { 
-    "name":"none", 
-    "value":"5", 
-    "id":"5", 
-    "selected":false, 
-    "parent_id":"1" 
-  }, 
-  { 
-    "name":"whatever", 
-    "value":"6", 
-    "id":"6", 
-    "selected":false, 
-    "parent_id":"1" 
-  } 
+[
+  {
+     "name":"item 1",
+     "value":"1",
+     "id":"1",
+     "parent_id":null,
+     "selected":true
+  },
+  {
+     "name":"item 2",
+     "value":"2",
+     "id":2,
+     "selected":false,
+     "parent_id":null
+  },
+  {
+     "name":"item 3",
+     "value":"3",
+     "id":3,
+     "selected":false,
+     "parent_id":null
+  },
+  {
+     "name":"item 4",
+     "value":"4",
+     "id":"4",
+     "selected":false,
+     "parent_id":"1"
+  },
+  {
+     "name":"item 5",
+     "value":"5",
+     "id":"5",
+     "selected":false,
+     "parent_id":"1"
+  },
+  {
+     "name":"item 6",
+     "value":"6",
+     "id":"6",
+     "selected":false,
+     "parent_id":"1"
+  }
 ]
